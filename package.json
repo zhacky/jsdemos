@@ -1,0 +1,28 @@
+{
+  "name": "jsdemos",
+  "version": "1.0.0",
+  "description": "Javascript Demos - for coding practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhacky/jsdemos.git"
+  },
+  "keywords": [
+    "coding",
+    "practice",
+    "javascript",
+    "interview"
+  ],
+  "author": "Zhack Ariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhacky/jsdemos/issues"
+  },
+  "homepage": "https://github.com/zhacky/jsdemos#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
